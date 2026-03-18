@@ -47,6 +47,7 @@ Applications built using KERI.
 
 # Events & Conferences
 
+* https://kericonf.com - Large KERI conference in the home of KERI
 * https://diceurope.org — Decentralized Identity Conference Europe
 * https://internetidentityworkshop.com — Internet Identity Workshop (IIW)
 * https://www.trustoverip.org — Trust over IP Foundation events
